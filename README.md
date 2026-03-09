@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents a comprehensive and interactive Electric Vehicle (EV) Data Analysis Dashboard built using Tableau.  
+Electric Vehicle Data Analysis project presents a comprehensive and interactive Electric Vehicle (EV) Data Analysis Dashboard built using Tableau.  
 The dashboard analyzes EV population data across the United States to uncover adoption trends, manufacturer dominance, state-wise distribution, and the impact of CAFV (Clean Alternative Fuel Vehicle) eligibility.
 
 The objective is to transform raw EV data into meaningful business insights using KPI-driven analytics and interactive visualizations.
